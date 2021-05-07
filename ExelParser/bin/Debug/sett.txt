@@ -1,0 +1,1 @@
+{"name":"СеваParse","version":"0.1.27","KP_Folder":"KP","files":[{"fileName":"CHINT1 с коэф_ми (1).xlsx"},{"fileName":"Jean_Muller_калькулятор_цен_АйДи.xls"},{"fileName":"Прайс-лист М+ (01.02.21).xlsx"},{"fileName":"Прайс-лист EL 2021 Февраль с 12.02.xlsx"},{"fileName":"Tariff Moscow 2021 - 2 (15.02.2021).xlsx"}]}
